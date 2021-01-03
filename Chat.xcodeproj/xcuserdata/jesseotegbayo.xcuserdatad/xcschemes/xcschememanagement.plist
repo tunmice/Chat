@@ -6,13 +6,30 @@
 	<dict>
 		<key>Chat.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
 		<key>ChatModule.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BAFDC35C25A234FF00D64C2F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BAFDC37925A2356100D64C2F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
